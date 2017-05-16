@@ -54,6 +54,18 @@ Vorbereitet für Github-Hosting
 
 Das Verändern der Webseite ist unter GitHub etwas umständlich. Um das zu vereinfachen laden wir die Webseite jetzt herunter.
 
+### Vorbereitung
+
+Auf dem eigenen Rechner werden zwei Programme benötigt, die nicht standardmäßig installiert sind:
+- git: Verwaltung der Webseite (Versionen, Zusammenarbeit) und Veröffentlichung
+- atom: Verändern der Webseite (ginge aus mit Sublime oder anderen Texteditoren)
+
+Unter Linux muss man dafür im Temrinal folgendes Kommando eingeben:
+
+```
+sudo apt install git atom
+```
+
 ### Webseite auf dem eigenen Rechner speichern
 
 Rufe dein Repository in GitHub auf. In der Eingabezeile des Browsers findest du eine Webadresse. Das ist die Webadresse deines Repositories. Kopiere sie.
